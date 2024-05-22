@@ -1,0 +1,3 @@
+This is a multiplayer shooter I am working on to learn more about programming in C++ for Unreal 5.
+I am currently working on sound design and implementation with the main gameplay features already finished.
+I decided not to use a Wwise or FMOD implementation in this project so I could learn more about Unreal's built in audio features.
