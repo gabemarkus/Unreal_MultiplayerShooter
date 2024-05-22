@@ -1,4 +1,4 @@
-This is a multiplayer shooter I am working on to learn more about programming in C++ for Unreal 5.
+This is a game I am working on to learn more about programming for multiplayer in Unreal 5.
 
 I've only uploaded the source code due to file size limitations.
 
